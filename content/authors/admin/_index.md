@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yongsen Ruan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Sun Yat-sen University, Guangzhou
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include population genetics, somatic evolution, origin and evolution of virus, evolution of sex.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Populaiton Genetics
+- Computational Biology
+- Somatic Evolution
+- Origin and Evolution of virus
+- Evolution of Sex
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biochemistry and Molecular Biology
+    institution: Sun Yat-sen University
+    advisor: Prof. Chung-I Wu
+    year: 2020
+  - course: BSc in Biotechnology
+    institution: Sun Yat-sen University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
