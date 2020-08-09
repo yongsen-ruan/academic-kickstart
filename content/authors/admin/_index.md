@@ -70,6 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research is focused on the development and application of mathematical model, computational approaches to explore the tumor evolutionary dynamics. In particular, I use spatial genomic profiling of intra-tumor to model the tumor progression and estimate the effect of cell migration on the spatial patterns of genetic variation. I also use the primary-metastasis genomic data to explore how and when primary tumor spreads during tumor evolutionary dynamics. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Most recently, I propose a runaway model, in which the accumulation of mutators forms a positive-feedback loop to let mutations beget more mutations. This model can apply to both soma and germline. In somatic tissues, many weak effect mutators can explain the mutation load difference between normal tissues and cancers. In germline, a small increase in the baseline mutation rate could trigger the runaway accumulation, leading to an unbearable fitness effect for longer living species. We hence suggest that the baseline mutation rate in mammals with long generation time may seem unnecessarily low due to the need to minimize the risk of the runaway accumulation.
+
