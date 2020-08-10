@@ -40,7 +40,7 @@ url_source = "https://academic.oup.com/mbe/article-abstract/37/4/1007/5645182?re
 
 [header]
 # (relative to `static/media/` folder)
-image = "runawaymodel.jpg"
+# image = "runawaymodel.jpg"
 caption = ""
 +++
 
