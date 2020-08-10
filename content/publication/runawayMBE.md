@@ -11,7 +11,7 @@
 title = "Mutations Beget More Mutations—Rapid Evolution of Mutation Rate in Response to the Risk of Runaway Accumulation"
 date = "2019-12-03"
 authors = ["Yongsen Ruan","Haiyu Wang","Bingjie Chen", "Haijun Wen", "Chung-I Wu"]
-publication_types = ["3"]
+publication_types = ["2"]
 publication_short = "Mol Biol Evol"
 publication = "Ruan Y, Wang H, Chen B, Wen H, Wu CI. 2020. Mutations Beget More Mutations-Rapid Evolution of Mutation Rate in Response to the Risk of Runaway Accumulation. Mol Biol Evol 37: 1007-1019."
 image_preview = ""
@@ -39,7 +39,8 @@ url_source = "https://academic.oup.com/mbe/article-abstract/37/4/1007/5645182?re
 # ]
 
 [header]
-# image = "publications/bramley2016natural.png"
+# (relative to `static/media/` folder)
+image = "runawaymodel.jpg"
 caption = ""
 +++
 
