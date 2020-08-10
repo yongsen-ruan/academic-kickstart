@@ -8,21 +8,21 @@
 # 5 -> 'Thesis'
 
 
-title = "Mutations Beget More Mutations—Rapid Evolution of Mutation Rate in Response to the Risk of Runaway Accumulation"
+title = "Sex, fitness decline and recombination - Muller's ratchet vs. Ohta's ratchet"
 date = "2019-12-03"
-authors = ["Yongsen Ruan","Haiyu Wang","Bingjie Chen", "Haijun Wen", "Chung-I Wu"]
-publication_types = ["2"]
-publication_short = "Mol Biol Evol"
-publication = "Ruan Y, Wang H, Chen B, Wen H, Wu CI. 2020. Mutations Beget More Mutations-Rapid Evolution of Mutation Rate in Response to the Risk of Runaway Accumulation. Mol Biol Evol 37: 1007-1019."
+authors = ["Yongsen Ruan","Haiyu Wang","Lingjie Zhang", "Haijun Wen", "Chung-I Wu"]
+publication_types = ["1"]
+publication_short = "BioRxiv"
+publication = "Ruan Y, Wang H, Zhang L, Wen H, Wu C-I. 2020. Sex, fitness decline and recombination - Muller's ratchet vs. Ohta's ratchet. bioRxiv:2020.2008.2006.240713."
 image_preview = ""
 selected = false
 projects = []
 math = true
 highlight = true
-abstract= "The rapidity with which the mutation rate evolves could greatly impact evolutionary patterns. Nevertheless, most studies simply assume a constant rate in the time scale of interest (Kimura 1983; Drake 1991; Kumar 2005; Li 2007; Lynch 2010). In contrast, recent studies of somatic mutations suggest that the mutation rate may vary by several orders of magnitude within a lifetime (Kandoth et al. 2013; Lawrence et al. 2013). To resolve the discrepancy, we now propose a runaway model, applicable to both the germline and soma, whereby mutator mutations form a positive-feedback loop. In this loop, any mutator mutation would increase the rate of acquiring the next mutator, thus triggering a runaway escalation in mutation rate. The process can be initiated more readily if there are many weak mutators than a few strong ones. Interestingly, even a small increase in the mutation rate at birth could trigger the runaway process, resulting in unfit progeny. In slowly reproducing species, the need to minimize the risk of this uncontrolled accumulation would thus favor setting the mutation rate low. In comparison, species that starts and ends reproduction sooner do not face the risk and may set the baseline mutation rate higher. The mutation rate would evolve in response to the risk of runaway mutation, in particular, when the generation time changes. A rapidly evolving mutation rate may shed new lights on many evolutionary phenomena (Elango et al. 2006; Thomas et al. 2010, 2018; Langergraber et al. 2012; Besenbacher et al. 2019)."
+abstract= "It is generally accepted that the absence of recombination reduces the efficacy of natural selection for, or against, mutations. A special case is Muller's Ratchet (MR) whereby non-recombining genomes experience irreversible fitness decline due to the accumulation of deleterious mutations. MR has been a main hypothesis for sexual reproduction as well as many other biological phenomena. We now ask whether the fitness decline can indeed be stopped if an asexual population turns sexual to become recombining. The possible fitness decline under recombination is referred to as Ohta's Ratchet (OR). In comparison, MR is more effective in driving fitness reduction than OR, but only in a restricted parameter space of mutation rate, population size and selection. Outside of this space, the two ratchets are equally effective or, alternatively, neither is sufficiently powerful. Furthermore, beneficial mutations can affect the population fitness, which may diverge between the two ratchets, but only in a small parameter space. Since recombination plays a limited role in driving fitness decline, the operation of MR could be far less common in nature than believed. A companion report (see Supplement) surveying the biological phenomena attributed to MR indeed suggests the alternative explanations to be generally more compelling."
 
 # Links (optional).
-# url_pdf = "papers/bramley2016natural.pdf"
+url_pdf = "https://www.biorxiv.org/content/10.1101/2020.08.06.240713v1.full.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -30,7 +30,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://academic.oup.com/mbe/article-abstract/37/4/1007/5645182?redirectedFrom=fulltext"
+url_source = "https://www.biorxiv.org/content/10.1101/2020.08.06.240713v1"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
