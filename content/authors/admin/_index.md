@@ -15,7 +15,7 @@ role: PhD
 # Organizations/Affiliations
 organizations:
 - name: Sun Yat-sen University, Guangzhou
-  url: ""
+  url: "http://sysu.edu.cn/en/index.htm"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include population genetics, somatic evolution, origin and evolution of virus, evolution of sex.
@@ -44,8 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-  link: 'mailto:rnygsn@163.com'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Yongsen_Ruan
