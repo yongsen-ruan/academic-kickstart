@@ -68,6 +68,5 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/research/_index.md" >}}).
-{{% /alert %}}
+# text will appear at the top of the widget. This can be useful for introducing the widget content
+Test: introducton the widget content(research)
