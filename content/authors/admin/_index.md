@@ -51,7 +51,7 @@ social:
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://www.researchgate.net/profile/Yongsen_Ruan
-- icon: research-gate
+- icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yongsen_Ruan
 - icon: github
