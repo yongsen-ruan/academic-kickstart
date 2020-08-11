@@ -68,5 +68,5 @@ subtitle = ""
  css_class = ""
 +++
 
-# text will appear at the top of the widget. This can be useful for introducing the widget content
+# text will appear at the top of the widget (include the information after #). This can be useful for introducing the widget content
 Test: introducton the widget content(research)
