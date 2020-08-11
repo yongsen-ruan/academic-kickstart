@@ -48,9 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Yongsen_Ruan
-- icon: google-scholar
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Yongsen_Ruan
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/Yongsen_Ruan
 - icon: research-gate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yongsen_Ruan
