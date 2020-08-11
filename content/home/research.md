@@ -5,14 +5,13 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "Research"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  # page_type = "publication"
   page_type = "research"
   
   # Choose how much pages you would like to display (0 = all pages)
@@ -38,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -68,5 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-# text will appear at the top of the widget (include the information after #). This can be useful for introducing the widget content
-Test: introducton the widget content(research)
+
