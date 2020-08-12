@@ -1,5 +1,5 @@
 ---
-title: An example title
+title: A theoretical exploration of the origin and early evolution of a pandemic
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -24,10 +24,10 @@ image:
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "virusOrigin.png"
+  image: ""
 ---
 
-A theoretical exploration of the origin and early evolution of a pandemic
+
 
 {{< figure src="virusOrigin.jpg" title="Origin and early evolution of a pandemic" >}}
 
