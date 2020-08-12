@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Research"
-  url = "#research"
+  url = "research/"
   weight = 20
 
 [[main]]
@@ -23,10 +23,10 @@
   url = "#publications"
   weight = 40
 
-[[main]]
-  name = "example page"
-  url = "example/"
-  weight = 50
+# [[main]]
+#  name = "example page"
+#  url = "example/"
+#  weight = 50
 
 [[main]]
   name = "Contact"
