@@ -40,7 +40,7 @@ url_source = "https://www.biorxiv.org/content/10.1101/2020.08.06.240713v1"
 
 [header]
 # (relative to `static/media/` folder)
-# image = "runawaymodel.jpg"
+image = "virusOrigin.png"
 caption = ""
 +++
 {{< figure src="virusOrigin.png" title="A caption" >}}
