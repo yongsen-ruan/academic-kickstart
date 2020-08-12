@@ -39,6 +39,11 @@ subtitle = ""
   #   4 = Citation (publication only)
   view = 2
   
+  # The number of columns in a section can be configured for the Blank and Portfolio widgets
+  #  "1" : a single full-width column with the section content appearing directly underneath the section title (if set)
+  #  "2" : two columns in the classic Academic layout with the the section title appearing on the left and the section content appearing on the right
+  columns = "2"
+  
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
