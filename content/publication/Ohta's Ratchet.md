@@ -11,7 +11,7 @@
 title = "Sex, fitness decline and recombination - Muller's ratchet vs. Ohta's ratchet"
 date = "2020-08-03"
 authors = ["Yongsen Ruan","Haiyu Wang","Lingjie Zhang", "Haijun Wen", "Chung-I Wu"]
-publication_types = ["1"]
+publication_types = ["3"]
 publication_short = "BioRxiv"
 publication = "Ruan Y, Wang H, Zhang L, Wen H, Wu C-I. 2020. Sex, fitness decline and recombination - Muller's ratchet vs. Ohta's ratchet. bioRxiv:2020.2008.2006.240713."
 image_preview = ""
