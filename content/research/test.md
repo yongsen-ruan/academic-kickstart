@@ -43,3 +43,5 @@ url_source = "https://www.biorxiv.org/content/10.1101/2020.08.06.240713v1"
 # image = "runawaymodel.jpg"
 caption = ""
 +++
+{{< figure src="virusOrigin.png" title="A caption" >}}
+
