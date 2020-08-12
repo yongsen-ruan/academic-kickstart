@@ -1,9 +1,9 @@
 +++
 # Pub_type key
 # 0 -> 'Forthcoming',
-# 1 -> 'Preprint',
+# 1 -> 'Conference Proceedings',
 # 2 -> 'Journal',
-# 3 -> 'Conference Proceedings',
+# 3 -> 'Preprint',
 # 4 -> 'Book chapter',
 # 5 -> 'Thesis'
 
