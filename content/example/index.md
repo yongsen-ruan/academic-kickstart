@@ -11,7 +11,8 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: ""
+  image: "virusOrigin.png"
 ---
 
 Add your *content* here...
+{{< figure src="virusOrigin.png" title="A caption" >}}
