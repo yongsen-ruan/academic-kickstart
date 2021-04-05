@@ -29,7 +29,7 @@ header:
 ---
 
 **On the founder effect in COVID-19 outbreaks: how many infected travelers may have started them all?**
-{{< figure src="NSR_sars2Founder.pdf" title="Transmission bottleneck of SARS-CoV-2" >}}
+{{< figure src="NSR_sars2Founder.jpg" title="Schematic diagram of viral population divergence among regions" >}}
 
 How many incoming travelers (I0 at time 0, equivalent to the ‘founders’ in evolutionary genetics) infected
 with SARS-CoV-2 who visit or return to a region could have started the epidemic of that region? I0 would
