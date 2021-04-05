@@ -33,7 +33,7 @@ explored in the companion study (Ruan et al., personal communication)."
 
 # Links (optional).
 # url_pdf = "papers/Ruan_2021NSR_Ruan_SARS2Founder.pdf"
-url_pdf = ""
+url_pdf = "https://academic.oup.com/nsr/article-pdf/8/1/nwaa246/35886122/nwaa246.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
