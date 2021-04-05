@@ -10,7 +10,8 @@
 
 title = "On the founder effect in COVID-19 outbreaks: how many infected travelers may have started them all?"
 date = "2020-09-24"
-authors = ["Yongsen Ruan","Zhida Luo,"Xiaolu Tang","Guanghao Li","Haijun Wen","Xionglei He", "Xuemei Lu","Jian Lu","Chung-I Wu"]
+# authors = ["Yongsen Ruan","Zhida Luo,"Xiaolu Tang","Guanghao Li","Haijun Wen","Xionglei He", "Xuemei Lu","Jian Lu","Chung-I Wu"]
+authors = ["Yongsen Ruan","Haiyu Wang","Bingjie Chen", "Haijun Wen", "Chung-I Wu"]
 publication_types = ["2"]
 publication_short = "Natl. Sci. Rev"
 publication = "Ruan Y, Luo Z, Tang X, Li G, Wen H, He X, Lu X, Lu J, Wu C-I. 2021. On the founder effect in COVID-19 outbreaks: how many infected travelers may have started them all? Natl. Sci. Rev. 8:nwaa246."
