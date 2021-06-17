@@ -9,7 +9,6 @@
 
 
 title = "On the founder effect in COVID-19 outbreaks: how many infected travelers may have started them all?"
-# date = "2020-09-24"
 date = "2021-01-01"
 authors = ["Yongsen Ruan","Zhida Luo","Xiaolu Tang","Guanghao Li","Haijun Wen","Xionglei He", "Xuemei Lu","Jian Lu", "Chung-I Wu"]
 publication_types = ["2"]
