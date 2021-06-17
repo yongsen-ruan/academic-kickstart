@@ -9,7 +9,8 @@
 
 
 title = "A theoretical exploration of the origin and early evolution of a pandemic"
-date = "2020-12-16"
+# date = "2020-12-16"
+date = "2021-05-30"
 authors = ["Yongsen Ruan","Haijun Wen","Xionglei He","Chung-I Wu"]
 publication_types = ["2"]
 publication_short = "Sci Bull"
@@ -23,7 +24,7 @@ abstract= "A virus that can cause a global pandemic must be highly adaptive to h
 
 # Links (optional).
 # url_pdf = ""
-url_pdf = ""
+url_pdf = "https://www.sciencedirect.com/sdfe/reader/pii/S2095927320307659/pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
